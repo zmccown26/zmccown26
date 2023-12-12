@@ -9,12 +9,12 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
 🎓 **Classes I've Taken:**
 1. **Introduction to Computer Science (CMS 120):**
    - Used Python to explore the fundamentals of programming.
-   - [[Link to CMS 120 code examples and projects]](https://github.com/zmccown26/Intro-to-Computer-Science)
+   - [[Assignments and Projects from class]](https://github.com/zmccown26/Intro-to-Computer-Science)
 
 2. **Programming and Software Development (CMS 121):**
    - Utilized Java for software development.
    - Completed various hand-written code exercises, contributing to a strong foundation.
-   - [[Link to CMS 121 code examples and projects]](https://github.com/zmccown26/Programming-and-Software-Development)
+   - [[Assignments and Projects from class]](https://github.com/zmccown26/Programming-and-Software-Development)
 
 🔜 **Upcoming Classes (Spring 2023):**
 1. **Introduction to Machine Learning (DTA 395):**
