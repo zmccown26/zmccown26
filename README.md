@@ -20,8 +20,6 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
 1. **Introduction to Machine Learning (DTA 395):**
    - Excited to delve into the fascinating world of machine learning.
 
-2. **Data Structures and Algorithms (CMS 250):**
-   - Looking forward to enhancing problem-solving skills and algorithmic thinking.
 
 🏀 **Fun Fact:**
 I'm not just into coding—I also love playing basketball and enjoy working with young kids.
