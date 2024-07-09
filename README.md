@@ -13,7 +13,7 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
 
 2. **Programming and Software Development (CMS 121):**
    - Utilized Java for software development.
-   - Completed various hand-written code exercises, contributing to a strong foundation.
+   - Completed numerous hand-written code exercises, contributing to a strong foundation.
    - [[Assignments and Projects from class]](https://github.com/zmccown26/Programming-and-Software-Development)
 
 🔜 **Upcoming Classes (Spring 2023):**
