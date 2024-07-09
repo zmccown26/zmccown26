@@ -19,7 +19,7 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
 🔜 **Upcoming Classes (Spring 2023):**
 1. **Introduction to Machine Learning (DTA 395):**
    - Excited to delve into the fascinating world of machine learning.
-   - [[Assignments and Projects from class]](https://github.com/zmccown26/Machine-Learning)
+   - [[Assignments and Projects from class]](https://github.com/zmccown26/Intro-to-Machine-Learning)
 
 
 🏀 🎣 **Fun Fact:**
