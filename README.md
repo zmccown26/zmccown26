@@ -16,7 +16,8 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
    - Read and comprehend program source code.
    - Be familiar with common terminology from computer science and programming.
    - Be familiar with the fundamentals of computer organization, systems, and data representation.
-   - [[Assignments and Projects from class]](https://github.com/zmccown26/Intro-to-Computer-Science)
+
+   [[Assignments and Projects from class]](https://github.com/zmccown26/Intro-to-Computer-Science)
 
 2. **Programming and Software Development CMS 121:**
    - Basic coding constructs in a type-based language (Java)
@@ -24,7 +25,8 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
    - Designing code solutions from specifications
    - Implementing code solutions
    - Static and dynamic testing of code
-   - [[Assignments and Projects from class]](https://github.com/zmccown26/Programming-and-Software-Development)
+
+   [[Assignments and Projects from class]](https://github.com/zmccown26/Programming-and-Software-Development)
 
 3. **Introduction to Machine Learning DTA 395:**
    - Understand the fundamental concepts of machine learning.
@@ -32,7 +34,8 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
    - Develop the ability to implement basic machine learning algorithms from scratch and using popular ML frameworks.
    - Cultivate critical thinking skills in the evaluation and application of machine learning models.
    - Learn about the importance of model interpretability and techniques to achieve transparent and explainable machine learning outcomes
-   - [[Assignments and Projects from class]](https://github.com/zmccown26/Intro-to-Machine-Learning)
+
+   [[Assignments and Projects from class]](https://github.com/zmccown26/Intro-to-Machine-Learning)
   
 🔜 **Upcoming Computer Science/Data Analytics Classes (Fall 2025):**
 
