@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 I'm Zach McCown, a passionate Computer Science student at Rollins College, set to graduate in May 2026. Eager to learn from visionary minds in the computer science field!
 
