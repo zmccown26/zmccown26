@@ -7,28 +7,44 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
 - Minors: Data Analytics and Business Management.
 
 🎓 **Classes I've Taken:**
-1. **Introduction to Computer Science (CMS 120):**
-   - Used Python to explore the fundamentals of programming.
+1. **Introduction to Computer Science CMS 120:**
+   - Be able to write programs using core features of the Python language, including variables, conditionals, functions, and loops.
+   - Write programs using Python's built-in list and dictionary data structures.
+   - Be familiar with the principles of object-oriented programming and the use of classes in organizing programs.
+   - Be able to write programs that conform to a written specification and are evaluated using automated testing.
+   - Understand and use methods of sound program design, such as abstraction and stepwise refinement, to design solutions to open-ended programming problems.
+   - Read and comprehend program source code.
+   - Be familiar with common terminology from computer science and programming.
+   - Be familiar with the fundamentals of computer organization, systems, and data representation.
    - [[Assignments and Projects from class]](https://github.com/zmccown26/Intro-to-Computer-Science)
 
-2. **Programming and Software Development (CMS 121):**
-   - Utilized Java for software development.
-   - Completed numerous hand-written code exercises, contributing to a strong foundation.
+2. **Programming and Software Development CMS 121:**
+   - Basic coding constructs in a type-based language (Java)
+   - Mapping out code requirements
+   - Designing code solutions from specifications
+   - Implementing code solutions
+   - Static and dynamic testing of code
    - [[Assignments and Projects from class]](https://github.com/zmccown26/Programming-and-Software-Development)
 
-🔜 **Upcoming Classes (Spring 2023):**
-1. **Introduction to Machine Learning (DTA 395):**
-   - Excited to delve into the fascinating world of machine learning.
+3. **Introduction to Machine Learning DTA 395:**
+   - Understand the fundamental concepts of machine learning.
+   - Explore various types of machine learning algorithms and their applications.
+   - Develop the ability to implement basic machine learning algorithms from scratch and using popular ML frameworks.
+   - Cultivate critical thinking skills in the evaluation and application of machine learning models.
+   - Learn about the importance of model interpretability and techniques to achieve transparent and explainable machine learning outcomes
    - [[Assignments and Projects from class]](https://github.com/zmccown26/Intro-to-Machine-Learning)
+  
+🔜 **Upcoming Computer Science/Data Analytics Classes (Fall 2025):**
 
+   1. Data Strcutures and Algoriths CMS 250
+   2. Computer Organization and Architecture CMS 230
+   3. Information Systems DTA 395
 
-🏀 🎣 **Fun Fact:**
-I'm not just into coding—I also love playing basketball and fishing!
 
 📫 **How to Reach Me:**
 - Email: zmccown@rollins.edu or mccown.designdash@gmail.com
 
-Feel free to connect with me and explore the exciting world of code and technology!
+Feel free to connect with me!
 
 
 
