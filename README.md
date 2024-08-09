@@ -41,7 +41,7 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
   
 🔜 **Upcoming Computer Science/Data Analytics Classes (Fall 2025):**
 
-- **Data Strcutures and Algoriths CMS 250**
+- **Data Structures and Algorithms CMS 250**
 - **Computer Organization and Architecture CMS 230**
 - **Information Systems DTA 397**
 
