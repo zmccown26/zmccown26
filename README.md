@@ -47,7 +47,7 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
 
 
 📫 **How to Reach Me:**
-- Email: zmccown@rollins.edu or mccown.designdash@gmail.com
+- Email: zmccown@rollins.edu or zach.mccown@designdashwebsites.com
 
 Feel free to connect with me!
 
