@@ -46,6 +46,12 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
 - **Information Systems DTA 397**
 
 
+🔜 **Upcoming Computer Science/Data Analytics Classes (Spring 2026):**
+
+- **Object Oriented Design CMS 270**
+- **Simulation/Stochastic Modeling CMS 380**
+- **Computational Photography CMS 385**
+
 📫 **How to Reach Me:**
 - Email: zmccown@rollins.edu or zach.mccown@designdashwebsites.com
 
