@@ -10,7 +10,7 @@ I'm Zach McCown, a passionate Computer Science student at Rollins College, set t
 
 **Introduction to Machine Learning DTA 395:**
    - Understand the fundamental concepts of machine learning.
-   - Explore various types of machine learning algorithms and their applications.
+   - Explore various types of machine learning algorithms and their applications. (SVMs, NNs, LDA, QDA, Decision Trees, Crossvalidation & Bootstrap)
    - Develop the ability to implement basic machine learning algorithms from scratch and using popular ML frameworks.
    - Cultivate critical thinking skills in the evaluation and application of machine learning models.
    - Learn about the importance of model interpretability and techniques to achieve transparent and explainable machine learning outcomes
